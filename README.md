@@ -1,3 +1,3 @@
 # hello-world
 First File Respository
-Cornell and Khan Academy Alumnus
+Cornell and Khan Alumnus
